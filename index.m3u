@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1, group-title="HBO GRUP", HBO
+https://raw.githubusercontent.com/RiRi30786/MinerTV/master/HBOID.m3u8
+#EXTINF:-1, group-title="HBO GRUP", HBO HITS
+https://raw.githubusercontent.com/RiRi30786/MinerTV/master/HBOHITS.m3u8
+#EXTINF:-1, group-title="HBO GRUP", HBO SIGNATURE
+https://raw.githubusercontent.com/RiRi30786/MinerTV/master/HBOSIG.m3u8
+#EXTINF:-1, group-title="HBO GRUP", HBO FAMILY
+https://raw.githubusercontent.com/RiRi30786/MinerTV/master/HBOFAM.m3u8
+#EXTINF:-1, group-title="HBO GRUP", CINEMAX
+https://raw.githubusercontent.com/RiRi30786/MinerTV/master/CINEMAX.m3u8
+#EXTINF:-1, group-title="HBO GRUP", RED BY HBO
+https://raw.githubusercontent.com/RiRi30786/MinerTV/master/REDHBO.m3u8
