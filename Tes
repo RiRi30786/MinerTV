@@ -715,8 +715,5 @@ http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28407
 #EXTINF:-1 group-title="Dazn Sports", Dazn1 Sat
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28471
 
-#EXTINF:-1 group-title="Indo Sports", AFC Live 2
-https://etslive-2-vidio-com.akamaized.net/exp=1635521985~acl=/hls-p/ingest_6786_*/*~hmac=ebdd8c847ad84a50e79b413ecf72a2f14b2f6f9ec7ed150237c9139828a2c728/hls-p/ingest_6786_480p/index.m3u8
-
-#EXTINF:-1 group-title="Indo Sports", AFC Live 3
-https://etslive-2-vidio-com.akamaized.net/exp=1635522491~acl=/hls-p/ingest_6786_*/*~hmac=dd55bb0a37b3bb030e13c4ad7a18245cd98fa9a2981d0c0a2bdb372ffed37165/hls-p/ingest_6786_480p/index.m3u8
+#EXTINF:-1 group-title="LIVE",TIMNAS
+https://etslive-2-vidio-com.akamaized.net/exp=1635521812~acl=/hls-p/ingest_6685_*/*~hmac=89751c9134473c7ef543eb97b31039a24642f897277e038cc4650def553a1ac1/hls-p/ingest_6685_720p/index.m3u8
