@@ -799,6 +799,8 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 https://svara-stream.radioddns.net:8443/banyuwangi_mandalafm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://103.28.149.117:8323/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", FILM
+https://hls13-eu.zcdn.stream/9894fe129d738866891aa1fab1f0e469/MjAyMi0xMS0xNw==/1080.m3u8?token=3a76d9806388efd457bffec327fcaaef&client=d41d8cd98f00b204e9800998ecf8427e&expires=1668780326&type=edge&node=edge24.zcdn.stream&auth=2f0963f87d524b6d5deb6877aacd637b
 
 ########################################################    DENSTV   ########################################################
 
