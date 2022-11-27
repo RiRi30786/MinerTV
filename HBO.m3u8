@@ -133,3 +133,7 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="VTV9 SV2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9-hd_165657032671.png" group-title="01 VTV", VTV9 SV2     
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 11
+https://pullalilive.livnvess.com/live/stream-168740.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 12
+https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669584262-0-0-53545cb0ec48ff5398c82f0bc3f89276
