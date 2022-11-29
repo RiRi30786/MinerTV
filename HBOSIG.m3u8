@@ -1,8 +1,115 @@
-#EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="Indonesia",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="ind",URI="https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/6.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NDExOTc3MH19fV19&Signature=K9e2w0UyjFmtdn3rE33dh~DcPa71~n-aUdlpA8JXMA5yhHZLhJp2lnSlAbcFToYOnxvUoyZra6BMfSfsaNta3iUarY2CuutA8aQr17ZtmYZas7akU2Dwd0hseCwjmUn6eO9l81C2ieF~LeFF6nHCVbdsZZgDCnXzN4-g-Z2bPmaomNwdWktb~uTffj4jTUofvykgb7f3STIb8Bv4K1LSqCtN0rLlWCWcBqNxkb78GdMMZX7AN~P8XiSjsFXFS5~lS3PxzE7n-AuGkTCLQMVMG3j6KWMtPLCQtK4b4cb6x4hNizL~RkXcIte~ZREgyERxYEpuBeMFtQ3w8CEJN9x5iA__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="Inggris",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/5.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NDExOTc3MH19fV19&Signature=K9e2w0UyjFmtdn3rE33dh~DcPa71~n-aUdlpA8JXMA5yhHZLhJp2lnSlAbcFToYOnxvUoyZra6BMfSfsaNta3iUarY2CuutA8aQr17ZtmYZas7akU2Dwd0hseCwjmUn6eO9l81C2ieF~LeFF6nHCVbdsZZgDCnXzN4-g-Z2bPmaomNwdWktb~uTffj4jTUofvykgb7f3STIb8Bv4K1LSqCtN0rLlWCWcBqNxkb78GdMMZX7AN~P8XiSjsFXFS5~lS3PxzE7n-AuGkTCLQMVMG3j6KWMtPLCQtK4b4cb6x4hNizL~RkXcIte~ZREgyERxYEpuBeMFtQ3w8CEJN9x5iA__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ind",URI="https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/11.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NDExOTc3MH19fV19&Signature=K9e2w0UyjFmtdn3rE33dh~DcPa71~n-aUdlpA8JXMA5yhHZLhJp2lnSlAbcFToYOnxvUoyZra6BMfSfsaNta3iUarY2CuutA8aQr17ZtmYZas7akU2Dwd0hseCwjmUn6eO9l81C2ieF~LeFF6nHCVbdsZZgDCnXzN4-g-Z2bPmaomNwdWktb~uTffj4jTUofvykgb7f3STIb8Bv4K1LSqCtN0rLlWCWcBqNxkb78GdMMZX7AN~P8XiSjsFXFS5~lS3PxzE7n-AuGkTCLQMVMG3j6KWMtPLCQtK4b4cb6x4hNizL~RkXcIte~ZREgyERxYEpuBeMFtQ3w8CEJN9x5iA__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="subs"
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NDExOTc3MH19fV19&Signature=K9e2w0UyjFmtdn3rE33dh~DcPa71~n-aUdlpA8JXMA5yhHZLhJp2lnSlAbcFToYOnxvUoyZra6BMfSfsaNta3iUarY2CuutA8aQr17ZtmYZas7akU2Dwd0hseCwjmUn6eO9l81C2ieF~LeFF6nHCVbdsZZgDCnXzN4-g-Z2bPmaomNwdWktb~uTffj4jTUofvykgb7f3STIb8Bv4K1LSqCtN0rLlWCWcBqNxkb78GdMMZX7AN~P8XiSjsFXFS5~lS3PxzE7n-AuGkTCLQMVMG3j6KWMtPLCQtK4b4cb6x4hNizL~RkXcIte~ZREgyERxYEpuBeMFtQ3w8CEJN9x5iA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bikini Chain Gang" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Bikini Chain Gang
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141771
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black Squirter" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Black Squirter
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141773
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Busty Anal Nymphos" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Busty Anal Nymphos
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141776
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Planet Gangbang" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Planet Gangbang
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141781
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pirates" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Pirates
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141782
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pregnant and Pounded" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Pregnant and Pounded
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141787
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pregnant Pussy" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Pregnant Pussy
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141788
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pretty Little Asians" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Pretty Little Asians
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141789
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lick it Good" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Lick it Good
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141791
+#EXTINF:-1 tvg-id="" tvg-name="24/7 My First Black Dick" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",My First Black Dick
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141792
+#EXTINF:-1 tvg-id="" tvg-name="24/7 A Summer in the Country" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",A Summer in the Country
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141794
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Executive Affairs" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Executive Affairs
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141796
+#EXTINF:-1 tvg-id="" tvg-name="24/7 German Gang Bang All-Stars" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",German Gang Bang All-Stars
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141798
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Forced Entry (1973)" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Forced Entry (1973)
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141800
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Horny Old Men" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Horny Old Men
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141801
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tear Me a New One" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Tear Me a New One
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141803
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Load Almighty" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Load Almighty
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141804
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Trophy Whores" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Trophy Whores
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141805
+#EXTINF:-1 tvg-id="" tvg-name="24/7 No Cum Dodging Allowed" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",No Cum Dodging Allowed
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141806
+#EXTINF:-1 tvg-id="" tvg-name="24/7 I Like It Rough" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",I Like It Rough
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141868
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rookie Pussy" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Rookie Pussy
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141869
+#EXTINF:-1 tvg-id="" tvg-name="Stay Home" tvg-logo="http://un-pluggedtv.net:8080/images/0087844a2dfe8fc139e46fc2bde0e92c.jpg" group-title="ShArEeXt@ADULT 18+",Stay Home
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141870
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Porn Fidelity's Up My Ass" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Porn Fidelity's Up My Ass
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141936
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BFF and I crave a BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",BFF and I crave a BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141937
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Panty Pops" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Panty Pops
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141942
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Organic Melons" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Organic Melons
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141945
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Momma Knows Best" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Momma Knows Best
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141949
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pregnant and Pounded" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Pregnant and Pounded
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141951
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mrs Siren - Bring Me your BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Mrs Siren - Bring Me your BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141955
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tiny Spinner" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Tiny Spinner
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141958
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maxine X - BJ for the Boyfriend" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Maxine X - BJ for the Boyfriend
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141961
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Violet Starr" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Violet Starr
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141963
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kyler Quinn - Rainy Day" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Kyler Quinn - Rainy Day
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141964
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jenny Simons BBC Gangbang" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Jenny Simons BBC Gangbang
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141967
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kacie Castle Eager For BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Kacie Castle Eager For BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141968
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Aretha Farris - Cumming" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Aretha Farris - Cumming
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141970
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Giselle Palmer" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Giselle Palmer
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141972
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mermaid Sharing With BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Mermaid Sharing With BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141973
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Luna Storm" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Luna Storm
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141975
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ella Reese - Deep Throating" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Ella Reese - Deep Throating
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141978
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paige Owens Exotic Beauty Wants BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Paige Owens Exotic Beauty Wants BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141982
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jenny Simmons - Gangbang" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Jenny Simmons - Gangbang
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141985
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Eve Madison- Gaped" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Eve Madison- Gaped
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141991
+#EXTINF:-1 tvg-id="" tvg-name="24/7 If it ain't Black...take it back" tvg-logo="" group-title="ShArEeXt@ADULT 18+",If it ain't Black...take it back
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141992
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Nichole Love" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Nichole Love
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141993
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Leah Lee Milking the BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Leah Lee Milking the BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/141997
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Natalia Queen - BBC Detention" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Natalia Queen - BBC Detention
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/142005
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kaitlyn Katsaros -Don't Break me" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Kaitlyn Katsaros -Don't Break me
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/142009
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cheating on her with a BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Cheating on her with a BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/142011
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Godess Idelsy - BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Godess Idelsy - BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/142015
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Britney Benz Loves the BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Britney Benz Loves the BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/142019
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Afternoon BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Afternoon BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/142042
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alexa Black - Pleasure Before Business" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Alexa Black - Pleasure Before Business
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/142043
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Athena Faris - Cummings on a BBC" tvg-logo="" group-title="ShArEeXt@ADULT 18+",Athena Faris - Cummings on a BBC
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/142044
