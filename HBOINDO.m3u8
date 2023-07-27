@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",TV1
-https://bromo.kdb.co.id/Trans7/index.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",TV7 Low
+https://bromo.kdb.co.id/Trans7/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",TV7 Medium
+https://bromo.kdb.co.id/Trans7/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",TV7 High
+https://bromo.kdb.co.id/Trans7/tracks-v1a1/mono.m3u8
