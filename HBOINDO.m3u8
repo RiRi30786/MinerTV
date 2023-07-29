@@ -9,9 +9,6 @@ https://bromo.kdb.co.id/Trans7/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",TV7 High
 https://bromo.kdb.co.id/Trans7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",Test TV
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2-HD/sa_dash_vmx/Soccer-2-HD.mpd
-
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",Dunia Tanpa Suara
 https://lowhls1.surahusa.fun/video/data/cUp1clJiR2RRTVE0WStCSE1oQzEzbnFEbXZ6YzByNGpEVlZBYk1LLzJKQitLTXdvYVVCTmRFZENrN1V1bWdxYg==/doc.php?file=tes.m3u8&link=//lowhls1.nvecloud.us/video/data/cUp1clJiR2RRTVE0WStCSE1oQzEzbnFEbXZ6YzByNGpEVlZBYk1LLzJKQitLTXdvYVVCTmRFZENrN1V1bWdxYg==/cUp1clJiR2RRTVE0WStCSE1oQzEzbnFEbXZ6YzByNGpEVlZBYk1LLzJKQitLTXdvYVVCTmRFZENrN1V1bWdxYg==.m3u8
 
@@ -26,30 +23,3 @@ https://lowhls1.surahusa.autos/video/data/aFRwUlY2dkNRTlN5MEhNWVV3NVpxTnZTeVdqST
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",Hidden Strike
 https://be6721.rcr72.waw04.cdn112.com/hls2/01/04280/ssmsywoeqoug_h/index-v1-a1.m3u8?t=T0YtrPWhTrouzif9J_Xvkxz3TK28mConm69m06B5kiw&s=1690628520&e=43200&f=21404985&srv=18&asn=7713&sp=2000
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 2
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 4
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 5
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports4-HD/sa_dash_vmx/MNCSports4-HD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Test
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer/sa_dash_vmx/Soccer.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Test 1
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-1/sa_dash_vmx/Soccer-1.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
-https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",TVRI_SPORTS
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
