@@ -42,6 +42,11 @@ https://q0useqhplvvu.lions-vidcdn.com/hls2/01/00099/qx6422garxbd_n/index-v1-a1.m
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin", Guardian of the galaxy 
 https://zx3paandj894cwqf.lions-vidcdn.com/hls2/01/00086/u2mz4g4y7by7_n/index-v1-a1.m3u8?t=p_Jk0EFMtikXPuQb8wRt11E1MQQ5vXE_bxHJQB5dW2w&s=1690724248&e=129600&f=434098&srv=ref3rauxqjpf&i=0.0&sp=1500&p1=ref3rauxqjpf&p2=ref3rauxqjpf
 
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin", The Round Up
+https://q07rllc394bjk3i7.lions-vidcdn.com/hls2/01/00083/hrrxfaskmdf2_n/index-v1-a1.m3u8?t=VGaYOnJHwBFa6wvB0pOwAr74ZbPJx37jlbdepBDRh6E&s=1690724578&e=129600&f=415836&srv=40kmxc0ewyq2&i=0.0&sp=1500&p1=40kmxc0ewyq2&p2=40kmxc0ewyq2
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin", The
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
