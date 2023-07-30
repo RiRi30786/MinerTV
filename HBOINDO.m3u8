@@ -45,8 +45,11 @@ https://zx3paandj894cwqf.lions-vidcdn.com/hls2/01/00086/u2mz4g4y7by7_n/index-v1-
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",The Round Up
 https://q07rllc394bjk3i7.lions-vidcdn.com/hls2/01/00083/hrrxfaskmdf2_n/index-v1-a1.m3u8?t=VGaYOnJHwBFa6wvB0pOwAr74ZbPJx37jlbdepBDRh6E&s=1690724578&e=129600&f=415836&srv=40kmxc0ewyq2&i=0.0&sp=1500&p1=40kmxc0ewyq2&p2=40kmxc0ewyq2
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",Knick of the zodiak 
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",Knights of the zodiac
 https://v7okvlscleoq.lions-vidcdn.com/hls2/01/00071/rfan9i7j2k83_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zRSxk_Ok_nhTeux5GwUDkOv8M42xMRziHyt4t5hw_Bs&s=1690724802&e=129600&f=362759&srv=026ljzhkje3707&i=0.0&sp=1500&p1=026ljzhkje3707&p2=026ljzhkje3707
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Rebahin",Fast X
+https://www.googleapis.com/drive/v3/files/1jlbxgfJcothIzNYgYA4FKhU32a9BYpv0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
