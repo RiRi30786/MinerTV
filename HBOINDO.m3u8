@@ -9,6 +9,12 @@ https://bromo.kdb.co.id/Trans7/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Lokal",TV7 High
 https://bromo.kdb.co.id/Trans7/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Lokal",Antara TV
+https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
+
+#EXTINF:-1 group-title="Lokal",Antara TV 2
+https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Film",John Wick
 https://www.googleapis.com/drive/v3/files/1Uk0TnRhrsgA_XPyw4iCLP98Kbs6bY2Cc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
