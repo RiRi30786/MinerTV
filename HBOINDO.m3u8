@@ -12,6 +12,9 @@ https://bromo.kdb.co.id/Trans7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Lokal",Apple TV
 https://fv1028.huibo.tv/UK/H152/chunks.m3u8?wsSecret=5e4f508d88f0d6d2c3ad37d7684b4c95&wsTime=1691801656
 
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Lokal",Apple TV 2
+https://fv1028.huibo.tv/UK/H150/chunks.m3u8?wsSecret=c1e278b5c6500aab004e8536b9915e22&wsTime=1691801827
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Film",John Wick
 https://www.googleapis.com/drive/v3/files/1Uk0TnRhrsgA_XPyw4iCLP98Kbs6bY2Cc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
